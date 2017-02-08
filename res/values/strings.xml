@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iRunning_Test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+   	<string name="str_btn_find">搜尋</string>
+    <string name="title_activity_act_create_member">ActCreateMember</string>
+	<string name="hnt_start_location">起點</string>
+    <string name="hnt_end_location">終點</string>
+	<string-array name="items">
+        <item name="台北地區">台北地區</item>
+        <item name="桃園地區">桃園地區</item>
+        <item name="新竹地區">新竹地區</item>
+        <item name="苗栗地區">苗栗地區</item>
+        <item name="台中地區">台中地區</item>
+        <item name="彰化地區">彰化地區</item>
+        <item name="雲林地區">雲林地區</item>
+        <item name="嘉義地區">嘉義地區</item>
+        <item name="高雄地區">高雄地區</item>
+        <item name="屏東地區">屏東地區</item>
+        <item name="宜蘭地區">宜蘭地區</item>
+        <item name="花蓮地區">花蓮地區</item>
+        <item name="台東地區">台東地區</item>
+    </string-array>
+    <string name="title_activity_act_create_activity">糾團!!</string>
+    
+    <style name="ButtonText">
+	    <item name="android:layout_width">fill_parent</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">#ffffff</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">3dp</item>
+	    <item name="android:textSize">30dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	</style>
+     
+</resources>
